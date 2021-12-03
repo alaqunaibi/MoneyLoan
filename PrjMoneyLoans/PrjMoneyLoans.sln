@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrjMoneyLoans", "PrjMoneyLoans\PrjMoneyLoans.csproj", "{6574D41A-B507-43FC-BBD2-9ADC9DF17152}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LoanProj", "LoanProj\LoanProj.vdproj", "{A4D2B98B-F804-4FB8-8087-A46CB8FC31F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6574D41A-B507-43FC-BBD2-9ADC9DF17152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6574D41A-B507-43FC-BBD2-9ADC9DF17152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6574D41A-B507-43FC-BBD2-9ADC9DF17152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6574D41A-B507-43FC-BBD2-9ADC9DF17152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4D2B98B-F804-4FB8-8087-A46CB8FC31F5}.Debug|Any CPU.ActiveCfg = Debug
+		{A4D2B98B-F804-4FB8-8087-A46CB8FC31F5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C3FDFF-7C01-4576-A39B-C781EE75DA72}
+	EndGlobalSection
+EndGlobal
